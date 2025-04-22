@@ -65,7 +65,7 @@ function seleccionar(casilla) {
       
 //Mostramos el alert mediante un breve temporizador, para que de tiempo a refrescar el puzzle y verlo completo:
 			setTimeout(function(){
-			 	alert("Puzzle finalizado");
+			 	alert("Genial, lo has logrado!...");
 			}, 300);
 		}
 	}
